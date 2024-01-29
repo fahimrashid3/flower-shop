@@ -144,7 +144,7 @@ body {
    margin-top: 20px;
 } 
 
-/* social media (instragrm) related html */
+/* social media (instragrm) related css */
 
 .social-section{
     margin-top: 150px;
@@ -159,4 +159,23 @@ body {
 .social-section-img-item{
     height: 400px;
     width: 350px;
+}
+
+/* input section related css style */
+.input-section{
+    background: url('../image/Rectangle\ 9.png');
+    margin: 150px 225px;
+    padding: 110px;
+}
+
+.input-section-item-input{
+    display: flex;
+    justify-content: center;
+ 
+   
+}
+
+#email{
+    padding: 15px;
+    width: 500px;
 }
