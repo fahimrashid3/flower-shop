@@ -143,3 +143,20 @@ body {
    margin-left: 40%;
    margin-top: 20px;
 } 
+
+/* social media (instragrm) related html */
+
+.social-section{
+    margin-top: 150px;
+}
+.social-section-img{
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    margin: 70px 300px;
+}
+
+.social-section-img-item{
+    height: 400px;
+    width: 350px;
+}
