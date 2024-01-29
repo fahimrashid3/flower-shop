@@ -62,6 +62,9 @@ body {
 
 
 /* Our featured Flowers section related css style */
+.featured-section{
+    margin-top: 150px;
+}
 
 .featured-text{
    justify-content: center;
@@ -121,7 +124,7 @@ body {
     text-align: center;
     gap: 100px;
     background: #2727270d;
-    margin: 130px 22% 0% 22%;
+    margin: 150px 22% 0% 22%;
     padding: 70px 0px 50PX ;
 }
 
@@ -131,7 +134,7 @@ body {
     justify-content: center;
     gap: 180px;
     align-items: center;
-    margin-top: 130px;
+    margin-top: 150px;
     background: #e554730d;
     padding: 50px 400px;
 }
@@ -164,7 +167,7 @@ body {
 /* input section related css style */
 .input-section{
     background: url('../image/Rectangle\ 9.png');
-    margin: 150px 225px;
+    margin: 200px 225px;
     padding: 110px;
 }
 
