@@ -1,0 +1,46 @@
+/* google lota font linked */
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+
+/* universal style section */
+
+.section-btn{
+    color:white;
+    background: #E55473;
+    padding: 20px 43px;
+    border: none;
+    border-radius: 5px;
+}
+
+/* banner section related css style */
+.banner-section{
+    display: flex;
+    gap: 100px;
+    background: #e554731a;
+
+    ;
+}
+.banner-text-section{
+    margin-left: 240px;
+}
+.banner-img-section{
+    margin-right: 240px;
+}
+
+.section-title{
+    font-weight: 800;
+    font-size: 80px;
+    color: #272727;
+    margin-bottom: 0px;
+
+}
+
+.banner-details{
+    font-weight: 400;
+    font-size: 18px;
+    color: #27272799;
+    margin: 32px 0px;
+}
