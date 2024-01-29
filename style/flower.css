@@ -15,6 +15,14 @@ body {
     border-radius: 5px;
 }
 
+
+.section-details{
+    font-weight: 400;
+    font-size: 18px;
+    color: #27272799;
+    margin: 30px 0px;
+    width: 610px;
+}
 /* banner section related css style */
 .banner-section{
     display: flex;
@@ -30,7 +38,7 @@ body {
     margin-right: 240px;
 }
 
-.section-title{
+.banner-title{
     font-weight: 800;
     font-size: 80px;
     color: #272727;
@@ -38,9 +46,62 @@ body {
 
 }
 
-.banner-details{
+
+/* Our featured Flowers section related css style */
+
+.featured-text{
+   justify-content: center;
+}
+
+.section-title{
+    align-items: center;
+    text-align: center;
+    font-weight: 800;
+    font-size: 40px;
+    color: #272727;
+}
+
+
+.featured-section-details{
     font-weight: 400;
     font-size: 18px;
     color: #27272799;
-    margin: 32px 0px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+
+}
+
+.featured-img{
+    display: flex;
+    align-items: center;
+    gap: 140px;
+    justify-content: center;
+  
+}
+.flower-img{
+    width: 464; 
+    height: 538;
+    align-items: center;
+    justify-content: center;
+    border-radius: 300PX 300PX 0PX 0PX;
+    padding-top: 30px;
+
+}
+#flower-img-1{
+    background: #a7216226;;
+}
+#flower-img-2{
+    background: #0597a026;
+}
+#flower-img-3{
+    background: #477d1126;
+}
+.flower-img-details{
+    font-weight: 400;
+    font-size: 18px;
+    color: #27272799;
+    text-align: center;
 }
