@@ -23,6 +23,20 @@ body {
     margin: 30px 0px;
     width: 610px;
 }
+
+
+.featured-section-details{
+    font-weight: 400;
+    font-size: 18px;
+    color: #27272799;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+
 /* banner section related css style */
 .banner-section{
     display: flex;
@@ -62,17 +76,6 @@ body {
 }
 
 
-.featured-section-details{
-    font-weight: 400;
-    font-size: 18px;
-    color: #27272799;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    justify-content: center;
-    
-
-}
 
 .featured-img{
     display: flex;
@@ -121,3 +124,22 @@ body {
     margin: 130px 22% 0% 22%;
     padding: 70px 0px 50PX ;
 }
+
+/* offer section related css */
+.offer-section{
+    display: flex;
+    justify-content: center;
+    gap: 180px;
+    align-items: center;
+    margin-top: 130px;
+    background: #e554730d;
+    padding: 50px 400px;
+}
+
+#span-off{
+    color: #E55473;
+}
+#sing-up-btn{
+   margin-left: 40%;
+   margin-top: 20px;
+} 
